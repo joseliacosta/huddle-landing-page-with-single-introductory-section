@@ -1,0 +1,17 @@
+* {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    background-color: hsl(257, 40%, 49%);
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Poppins", sans-serif;
+}
+
+
